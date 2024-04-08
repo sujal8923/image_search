@@ -1,0 +1,7 @@
+@media (max-width:770px){
+  #cards{
+      width: 75% !important;
+      /* background-color: black; */
+  }
+
+}
